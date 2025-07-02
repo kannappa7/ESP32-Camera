@@ -6,4 +6,4 @@ My experiences:
 - 7/2/25
   - Successfully loaded a web streaming video server on the esp32-cam module - using the example code
   - connected the board to a power source and used it as a securit camera :-)
-- 
+  - converted dhcp to static ip so that I can be sure of the ip address that I can use to see
